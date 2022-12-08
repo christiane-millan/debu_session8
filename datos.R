@@ -1,3 +1,3 @@
 summary(iris)
 
-head(iris)
+head(iris, 10)
